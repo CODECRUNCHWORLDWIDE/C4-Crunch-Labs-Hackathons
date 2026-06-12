@@ -3,7 +3,7 @@
 > A free, open-source **hackathon-preparation track**: 10 weeks from "I've heard of hackathons" to "I shipped a working project under deadline pressure with three teammates I just met." Built around Agile ceremonies, full-stack rapid prototyping, and the social skills hackathons reward.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
-[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-2DD4BF.svg)](https://github.com/CODE-CRUNCH-CLUB)
+[![Built in the open](https://img.shields.io/badge/built-in%20the%20open-2DD4BF.svg)](https://github.com/CODECRUNCHWORLDWIDE)
 
 C4 is both a **course** and a **living archive** of every Code Crunch hackathon (305 Hack, CodeStorm, EmpowHER, HackFiesta, SummerCodeX, and counting). The archive lives in dated subfolders (e.g. `SPRING-2025/`). The course lives in `curriculum/`.
 
