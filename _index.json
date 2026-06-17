@@ -2,16 +2,16 @@
   "repo": "C4-Crunch-Labs-Hackathons",
   "files": [
     {
+      "path": "00-overview.md",
+      "title": "C4 \u00b7 Crunch Labs \u2014 Hackathons"
+    },
+    {
       "path": "CODE_OF_CONDUCT.md",
       "title": "Contributor Covenant Code of Conduct"
     },
     {
       "path": "CONTRIBUTING.md",
       "title": "Contributing to Crunch Labs Hackathons"
-    },
-    {
-      "path": "README.md",
-      "title": "C4 \u00b7 Crunch Labs \u2014 Hackathons"
     },
     {
       "path": "assets/branding/BRAND.md",
@@ -22,560 +22,564 @@
       "title": "C4 \u00b7 Crunch Labs \u2014 Hackathons \u00b7 Syllabus"
     },
     {
-      "path": "curriculum/week-01-the-hackathon-mental-model/README.md",
+      "path": "curriculum/week-01-the-hackathon-mental-model/00-overview.md",
       "title": "Week 1 \u2014 The Hackathon Mental Model"
     },
     {
-      "path": "curriculum/week-01-the-hackathon-mental-model/challenges/README.md",
-      "title": "Week 1 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/challenges/challenge-01-12-hour-solo-build.md",
-      "title": "Challenge 1 \u2014 The 12-Hour Solo Build"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/exercises/README.md",
-      "title": "Week 1 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/exercises/exercise-01-personal-brief.md",
-      "title": "Exercise 1 \u2014 Personal Brief"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/exercises/exercise-02-rate-five-real-hackathon-projects.md",
-      "title": "Exercise 2 \u2014 Rate Five Real Hackathon Projects"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/exercises/exercise-03-team-contract-draft.md",
-      "title": "Exercise 3 \u2014 Team Contract Draft"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/homework.md",
-      "title": "Week 1 Homework"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/lecture-notes/01-what-hackathons-actually-reward.md",
-      "title": "Lecture 1 \u2014 What Hackathons Actually Reward"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/lecture-notes/02-the-12-hour-rule-and-demo-or-die.md",
-      "title": "Lecture 2 \u2014 The 12-Hour Rule and the Demo-or-Die Doctrine"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/mini-project/README.md",
-      "title": "Mini-Project \u2014 Your Hackathon Operating Document"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/quiz.md",
-      "title": "Week 1 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-01-the-hackathon-mental-model/resources.md",
+      "path": "curriculum/week-01-the-hackathon-mental-model/01-resources.md",
       "title": "Week 1 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/README.md",
+      "path": "curriculum/week-01-the-hackathon-mental-model/02-lecture-notes/01-what-hackathons-actually-reward.md",
+      "title": "Lecture 1 \u2014 What Hackathons Actually Reward"
+    },
+    {
+      "path": "curriculum/week-01-the-hackathon-mental-model/02-lecture-notes/02-the-12-hour-rule-and-demo-or-die.md",
+      "title": "Lecture 2 \u2014 The 12-Hour Rule and the Demo-or-Die Doctrine"
+    },
+    {
+      "path": "curriculum/week-01-the-hackathon-mental-model/03-exercises/00-overview.md",
+      "title": "Week 1 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-01-the-hackathon-mental-model/03-exercises/exercise-01-personal-brief.md",
+      "title": "Exercise 1 \u2014 Personal Brief"
+    },
+    {
+      "path": "curriculum/week-01-the-hackathon-mental-model/03-exercises/exercise-02-rate-five-real-hackathon-projects.md",
+      "title": "Exercise 2 \u2014 Rate Five Real Hackathon Projects"
+    },
+    {
+      "path": "curriculum/week-01-the-hackathon-mental-model/03-exercises/exercise-03-team-contract-draft.md",
+      "title": "Exercise 3 \u2014 Team Contract Draft"
+    },
+    {
+      "path": "curriculum/week-01-the-hackathon-mental-model/04-challenges/00-overview.md",
+      "title": "Week 1 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-01-the-hackathon-mental-model/04-challenges/challenge-01-12-hour-solo-build.md",
+      "title": "Challenge 1 \u2014 The 12-Hour Solo Build"
+    },
+    {
+      "path": "curriculum/week-01-the-hackathon-mental-model/05-quiz.md",
+      "title": "Week 1 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-01-the-hackathon-mental-model/06-homework.md",
+      "title": "Week 1 Homework"
+    },
+    {
+      "path": "curriculum/week-01-the-hackathon-mental-model/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Your Hackathon Operating Document"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/00-overview.md",
       "title": "Week 2 \u2014 Rapid-Prototyping Toolkit Setup"
     },
     {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/challenges/README.md",
-      "title": "Week 2 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/challenges/challenge-01-shave-30-min-off-spinup.md",
-      "title": "Challenge 1 \u2014 Shave 30 Minutes Off Your Spin-up"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/exercises/README.md",
-      "title": "Week 2 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/exercises/exercise-01-stand-up-the-template.md",
-      "title": "Exercise 1 \u2014 Stand Up the Template"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/exercises/exercise-02-one-command-spinup.md",
-      "title": "Exercise 2 \u2014 One-Command Spin-up"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/exercises/exercise-03-deploy-to-staging.md",
-      "title": "Exercise 3 \u2014 Deploy to Staging"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/homework.md",
-      "title": "Week 2 Homework"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/lecture-notes/01-the-hackathon-stack-choice.md",
-      "title": "Lecture 1 \u2014 The Hackathon Stack Choice"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/lecture-notes/02-the-template-repo-pattern.md",
-      "title": "Lecture 2 \u2014 The Template Repo Pattern"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/mini-project/README.md",
-      "title": "Mini-Project \u2014 Your `hackathon-template` Repo, Polished"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/quiz.md",
-      "title": "Week 2 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-02-rapid-prototyping-toolkit/resources.md",
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/01-resources.md",
       "title": "Week 2 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-03-solo-prototype-sprint/README.md",
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/02-lecture-notes/01-the-hackathon-stack-choice.md",
+      "title": "Lecture 1 \u2014 The Hackathon Stack Choice"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/02-lecture-notes/02-the-template-repo-pattern.md",
+      "title": "Lecture 2 \u2014 The Template Repo Pattern"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/03-exercises/00-overview.md",
+      "title": "Week 2 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/03-exercises/exercise-01-stand-up-the-template.md",
+      "title": "Exercise 1 \u2014 Stand Up the Template"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/03-exercises/exercise-02-one-command-spinup.md",
+      "title": "Exercise 2 \u2014 One-Command Spin-up"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/03-exercises/exercise-03-deploy-to-staging.md",
+      "title": "Exercise 3 \u2014 Deploy to Staging"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/04-challenges/00-overview.md",
+      "title": "Week 2 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/04-challenges/challenge-01-shave-30-min-off-spinup.md",
+      "title": "Challenge 1 \u2014 Shave 30 Minutes Off Your Spin-up"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/05-quiz.md",
+      "title": "Week 2 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/06-homework.md",
+      "title": "Week 2 Homework"
+    },
+    {
+      "path": "curriculum/week-02-rapid-prototyping-toolkit/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 Your `hackathon-template` Repo, Polished"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/00-overview.md",
       "title": "Week 3 \u2014 Solo Prototype Sprint"
     },
     {
-      "path": "curriculum/week-03-solo-prototype-sprint/challenges/README.md",
-      "title": "Week 3 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/challenges/challenge-01-pair-prototype.md",
-      "title": "Challenge 1 \u2014 Pair Prototype"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/exercises/README.md",
-      "title": "Week 3 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/exercises/exercise-01-pick-a-real-prompt.md",
-      "title": "Exercise 1 \u2014 Pick a Real Prompt"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/exercises/exercise-02-the-six-hour-clock.md",
-      "title": "Exercise 2 \u2014 The Six-Hour Clock"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/exercises/exercise-03-the-three-minute-demo.md",
-      "title": "Exercise 3 \u2014 The Three-Minute Demo"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/homework.md",
-      "title": "Week 3 Homework"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/lecture-notes/01-the-six-hour-solo-build.md",
-      "title": "Lecture 1 \u2014 The Six-Hour Solo Build"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/lecture-notes/02-the-post-build-retro.md",
-      "title": "Lecture 2 \u2014 The Post-Build Retro"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/mini-project/README.md",
-      "title": "Mini-Project \u2014 The Six-Hour Solo Build + Recorded Demo + Written Retro"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/quiz.md",
-      "title": "Week 3 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-03-solo-prototype-sprint/resources.md",
+      "path": "curriculum/week-03-solo-prototype-sprint/01-resources.md",
       "title": "Week 3 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/README.md",
+      "path": "curriculum/week-03-solo-prototype-sprint/02-lecture-notes/01-the-six-hour-solo-build.md",
+      "title": "Lecture 1 \u2014 The Six-Hour Solo Build"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/02-lecture-notes/02-the-post-build-retro.md",
+      "title": "Lecture 2 \u2014 The Post-Build Retro"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/03-exercises/00-overview.md",
+      "title": "Week 3 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/03-exercises/exercise-01-pick-a-real-prompt.md",
+      "title": "Exercise 1 \u2014 Pick a Real Prompt"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/03-exercises/exercise-02-the-six-hour-clock.md",
+      "title": "Exercise 2 \u2014 The Six-Hour Clock"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/03-exercises/exercise-03-the-three-minute-demo.md",
+      "title": "Exercise 3 \u2014 The Three-Minute Demo"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/04-challenges/00-overview.md",
+      "title": "Week 3 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/04-challenges/challenge-01-pair-prototype.md",
+      "title": "Challenge 1 \u2014 Pair Prototype"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/05-quiz.md",
+      "title": "Week 3 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/06-homework.md",
+      "title": "Week 3 Homework"
+    },
+    {
+      "path": "curriculum/week-03-solo-prototype-sprint/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 The Six-Hour Solo Build + Recorded Demo + Written Retro"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/00-overview.md",
       "title": "Week 4 \u2014 Agile Ceremonies, Real-World Version"
     },
     {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/challenges/README.md",
-      "title": "Week 4 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/challenges/challenge-01-scope-stress-drill.md",
-      "title": "Challenge 1 \u2014 Scope Stress Drill"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/exercises/README.md",
-      "title": "Week 4 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/exercises/exercise-01-60-second-standup.md",
-      "title": "Exercise 1 \u2014 The 60-Second Stand-up"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/exercises/exercise-02-pointing-poker.md",
-      "title": "Exercise 2 \u2014 Planning-Poker Round"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/exercises/exercise-03-saying-no-script.md",
-      "title": "Exercise 3 \u2014 The \"Saying No\" Script"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/homework.md",
-      "title": "Week 4 Homework"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/lecture-notes/01-stand-up-demo-retro-compressed.md",
-      "title": "Lecture 1 \u2014 Stand-up, Demo, Retro, Compressed"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/lecture-notes/02-story-pointing-and-saying-no.md",
-      "title": "Lecture 2 \u2014 Story Pointing and Saying No"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/mini-project/README.md",
-      "title": "Mini-Project \u2014 The One-Page Team Contract Template"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/quiz.md",
-      "title": "Week 4 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-04-agile-ceremonies-real-world/resources.md",
+      "path": "curriculum/week-04-agile-ceremonies-real-world/01-resources.md",
       "title": "Week 4 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-05-scoping-discipline/README.md",
+      "path": "curriculum/week-04-agile-ceremonies-real-world/02-lecture-notes/01-stand-up-demo-retro-compressed.md",
+      "title": "Lecture 1 \u2014 Stand-up, Demo, Retro, Compressed"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/02-lecture-notes/02-story-pointing-and-saying-no.md",
+      "title": "Lecture 2 \u2014 Story Pointing and Saying No"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/03-exercises/00-overview.md",
+      "title": "Week 4 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/03-exercises/exercise-01-60-second-standup.md",
+      "title": "Exercise 1 \u2014 The 60-Second Stand-up"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/03-exercises/exercise-02-pointing-poker.md",
+      "title": "Exercise 2 \u2014 Planning-Poker Round"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/03-exercises/exercise-03-saying-no-script.md",
+      "title": "Exercise 3 \u2014 The \"Saying No\" Script"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/04-challenges/00-overview.md",
+      "title": "Week 4 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/04-challenges/challenge-01-scope-stress-drill.md",
+      "title": "Challenge 1 \u2014 Scope Stress Drill"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/05-quiz.md",
+      "title": "Week 4 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/06-homework.md",
+      "title": "Week 4 Homework"
+    },
+    {
+      "path": "curriculum/week-04-agile-ceremonies-real-world/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 The One-Page Team Contract Template"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/00-overview.md",
       "title": "Week 5 \u2014 Scoping Discipline"
     },
     {
-      "path": "curriculum/week-05-scoping-discipline/challenges/README.md",
-      "title": "Week 5 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/challenges/challenge-01-scope-a-friends-idea.md",
-      "title": "Challenge 1 \u2014 Scope a Friend's Idea"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/exercises/README.md",
-      "title": "Week 5 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/exercises/exercise-01-rate-your-prior-builds.md",
-      "title": "Exercise 1 \u2014 Rate Your Prior Builds"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/exercises/exercise-02-scope-stress-game.md",
-      "title": "Exercise 2 \u2014 Scope Stress Game"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/exercises/exercise-03-cut-list-rehearsal.md",
-      "title": "Exercise 3 \u2014 Cut-List Rehearsal"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/homework.md",
-      "title": "Week 5 Homework"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/lecture-notes/01-moscow-and-the-cut-list.md",
-      "title": "Lecture 1 \u2014 MoSCoW and the Cut-List"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/lecture-notes/02-the-demo-ability-test.md",
-      "title": "Lecture 2 \u2014 The Demo-Ability Test"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/mini-project/README.md",
-      "title": "Mini-Project \u2014 The 36-Hour Scoping Worksheet Template"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/quiz.md",
-      "title": "Week 5 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-05-scoping-discipline/resources.md",
+      "path": "curriculum/week-05-scoping-discipline/01-resources.md",
       "title": "Week 5 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-06-pitch-craft/README.md",
+      "path": "curriculum/week-05-scoping-discipline/02-lecture-notes/01-moscow-and-the-cut-list.md",
+      "title": "Lecture 1 \u2014 MoSCoW and the Cut-List"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/02-lecture-notes/02-the-demo-ability-test.md",
+      "title": "Lecture 2 \u2014 The Demo-Ability Test"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/03-exercises/00-overview.md",
+      "title": "Week 5 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/03-exercises/exercise-01-rate-your-prior-builds.md",
+      "title": "Exercise 1 \u2014 Rate Your Prior Builds"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/03-exercises/exercise-02-scope-stress-game.md",
+      "title": "Exercise 2 \u2014 Scope Stress Game"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/03-exercises/exercise-03-cut-list-rehearsal.md",
+      "title": "Exercise 3 \u2014 Cut-List Rehearsal"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/04-challenges/00-overview.md",
+      "title": "Week 5 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/04-challenges/challenge-01-scope-a-friends-idea.md",
+      "title": "Challenge 1 \u2014 Scope a Friend's Idea"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/05-quiz.md",
+      "title": "Week 5 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/06-homework.md",
+      "title": "Week 5 Homework"
+    },
+    {
+      "path": "curriculum/week-05-scoping-discipline/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 The 36-Hour Scoping Worksheet Template"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/00-overview.md",
       "title": "Week 6 \u2014 Pitch Craft"
     },
     {
-      "path": "curriculum/week-06-pitch-craft/challenges/README.md",
-      "title": "Week 6 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/challenges/challenge-01-pitch-someone-elses-project.md",
-      "title": "Challenge 1 \u2014 Pitch Someone Else's Project"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/exercises/README.md",
-      "title": "Week 6 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/exercises/exercise-01-write-the-hook.md",
-      "title": "Exercise 1 \u2014 Write the Hook"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/exercises/exercise-02-record-v1.md",
-      "title": "Exercise 2 \u2014 Record v1"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/exercises/exercise-03-record-v2-improved.md",
-      "title": "Exercise 3 \u2014 Record v2 (Improved)"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/homework.md",
-      "title": "Week 6 Homework"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/lecture-notes/01-the-3-minute-demo-structure.md",
-      "title": "Lecture 1 \u2014 The 3-Minute Demo Structure"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/lecture-notes/02-recording-watching-and-cringing.md",
-      "title": "Lecture 2 \u2014 Recording, Watching, and Cringing"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/mini-project/README.md",
-      "title": "Mini-Project \u2014 The 3-Minute Recorded Demo"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/quiz.md",
-      "title": "Week 6 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-06-pitch-craft/resources.md",
+      "path": "curriculum/week-06-pitch-craft/01-resources.md",
       "title": "Week 6 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/README.md",
+      "path": "curriculum/week-06-pitch-craft/02-lecture-notes/01-the-3-minute-demo-structure.md",
+      "title": "Lecture 1 \u2014 The 3-Minute Demo Structure"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/02-lecture-notes/02-recording-watching-and-cringing.md",
+      "title": "Lecture 2 \u2014 Recording, Watching, and Cringing"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/03-exercises/00-overview.md",
+      "title": "Week 6 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/03-exercises/exercise-01-write-the-hook.md",
+      "title": "Exercise 1 \u2014 Write the Hook"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/03-exercises/exercise-02-record-v1.md",
+      "title": "Exercise 2 \u2014 Record v1"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/03-exercises/exercise-03-record-v2-improved.md",
+      "title": "Exercise 3 \u2014 Record v2 (Improved)"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/04-challenges/00-overview.md",
+      "title": "Week 6 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/04-challenges/challenge-01-pitch-someone-elses-project.md",
+      "title": "Challenge 1 \u2014 Pitch Someone Else's Project"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/05-quiz.md",
+      "title": "Week 6 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/06-homework.md",
+      "title": "Week 6 Homework"
+    },
+    {
+      "path": "curriculum/week-06-pitch-craft/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 The 3-Minute Recorded Demo"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/00-overview.md",
       "title": "Week 7 \u2014 Team-Mode Dry-Run, Day 1"
     },
     {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/challenges/README.md",
-      "title": "Week 7 \u2014 Challenges (Optional)"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/challenges/challenge-01-clean-24-hours.md",
-      "title": "Challenge 1 \u2014 Clean 24 Hours: Acceptance Criteria"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/exercises/README.md",
-      "title": "Week 7 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/exercises/exercise-01-team-charter-for-fake-event.md",
-      "title": "Exercise 1 \u2014 Team Charter for a Fake Event"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/exercises/exercise-02-hour-by-hour-schedule.md",
-      "title": "Exercise 2 \u2014 Hour-by-Hour Schedule from a Written Prompt"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/exercises/exercise-03-conflict-intervention-drill.md",
-      "title": "Exercise 3 \u2014 Conflict-Intervention Drill"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/homework.md",
-      "title": "Week 7 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/lecture-notes/01-kickoff-and-roles.md",
-      "title": "Lecture 1 \u2014 Kickoff and Roles"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/lecture-notes/02-scoping-and-parallelization.md",
-      "title": "Lecture 2 \u2014 Scoping and Parallelization"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/lecture-notes/03-comms-norms-and-fixing-conflict.md",
-      "title": "Lecture 3 \u2014 Comms Norms and Fixing Conflict"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/mini-project/README.md",
-      "title": "Mini-Project \u2014 A 4-Hour Mock Hackathon at Home"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/quiz.md",
-      "title": "Week 7 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-07-team-mode-dry-run-day-one/resources.md",
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/01-resources.md",
       "title": "Week 7 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/README.md",
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/02-lecture-notes/01-kickoff-and-roles.md",
+      "title": "Lecture 1 \u2014 Kickoff and Roles"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/02-lecture-notes/02-scoping-and-parallelization.md",
+      "title": "Lecture 2 \u2014 Scoping and Parallelization"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/02-lecture-notes/03-comms-norms-and-fixing-conflict.md",
+      "title": "Lecture 3 \u2014 Comms Norms and Fixing Conflict"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/03-exercises/00-overview.md",
+      "title": "Week 7 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/03-exercises/exercise-01-team-charter-for-fake-event.md",
+      "title": "Exercise 1 \u2014 Team Charter for a Fake Event"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/03-exercises/exercise-02-hour-by-hour-schedule.md",
+      "title": "Exercise 2 \u2014 Hour-by-Hour Schedule from a Written Prompt"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/03-exercises/exercise-03-conflict-intervention-drill.md",
+      "title": "Exercise 3 \u2014 Conflict-Intervention Drill"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/04-challenges/00-overview.md",
+      "title": "Week 7 \u2014 Challenges (Optional)"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/04-challenges/challenge-01-clean-24-hours.md",
+      "title": "Challenge 1 \u2014 Clean 24 Hours: Acceptance Criteria"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/05-quiz.md",
+      "title": "Week 7 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/06-homework.md",
+      "title": "Week 7 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-07-team-mode-dry-run-day-one/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 A 4-Hour Mock Hackathon at Home"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/00-overview.md",
       "title": "Week 8 \u2014 Team-Mode Dry-Run, Day 2 (Hours 12 to 24)"
     },
     {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/challenges/README.md",
-      "title": "Week 8 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/challenges/challenge-01-submission-polish.md",
-      "title": "Challenge 1 \u2014 Submission Package Polish: Acceptance Criteria"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/exercises/README.md",
-      "title": "Week 8 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/exercises/SOLUTIONS.md",
-      "title": "Exercise Solutions \u2014 Week 8"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/exercises/exercise-01-pivot-decision-drill.md",
-      "title": "Exercise 1 \u2014 Pivot Decision Drill"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/exercises/exercise-02-integration-friction-drill.md",
-      "title": "Exercise 2 \u2014 Integration Friction Drill"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/exercises/exercise-03-retro-from-fake-log.md",
-      "title": "Exercise 3 \u2014 Retro from a Fake Log"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/homework.md",
-      "title": "Week 8 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/lecture-notes/01-midnight-slump-and-pivot.md",
-      "title": "Lecture 1 \u2014 Midnight Slump and the Pivot Protocol"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/lecture-notes/02-integration-and-demo-cut.md",
-      "title": "Lecture 2 \u2014 Integration Friction and the Hour-18 Demo Cut"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/lecture-notes/03-submission-and-retro.md",
-      "title": "Lecture 3 \u2014 Dress Rehearsal, Submission, and Retro"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/mini-project/README.md",
-      "title": "Mini-Project \u2014 The Hours-12-to-24 Continuation"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/quiz.md",
-      "title": "Week 8 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-08-team-mode-dry-run-day-two/resources.md",
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/01-resources.md",
       "title": "Week 8 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/README.md",
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/02-lecture-notes/01-midnight-slump-and-pivot.md",
+      "title": "Lecture 1 \u2014 Midnight Slump and the Pivot Protocol"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/02-lecture-notes/02-integration-and-demo-cut.md",
+      "title": "Lecture 2 \u2014 Integration Friction and the Hour-18 Demo Cut"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/02-lecture-notes/03-submission-and-retro.md",
+      "title": "Lecture 3 \u2014 Dress Rehearsal, Submission, and Retro"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/03-exercises/00-overview.md",
+      "title": "Week 8 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/03-exercises/SOLUTIONS.md",
+      "title": "Exercise Solutions \u2014 Week 8"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/03-exercises/exercise-01-pivot-decision-drill.md",
+      "title": "Exercise 1 \u2014 Pivot Decision Drill"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/03-exercises/exercise-02-integration-friction-drill.md",
+      "title": "Exercise 2 \u2014 Integration Friction Drill"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/03-exercises/exercise-03-retro-from-fake-log.md",
+      "title": "Exercise 3 \u2014 Retro from a Fake Log"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/04-challenges/00-overview.md",
+      "title": "Week 8 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/04-challenges/challenge-01-submission-polish.md",
+      "title": "Challenge 1 \u2014 Submission Package Polish: Acceptance Criteria"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/05-quiz.md",
+      "title": "Week 8 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/06-homework.md",
+      "title": "Week 8 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-08-team-mode-dry-run-day-two/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 The Hours-12-to-24 Continuation"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/00-overview.md",
       "title": "Week 9 \u2014 Judging, Scoring, and Reading the Room"
     },
     {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/challenges/README.md",
-      "title": "Week 9 \u2014 Challenges"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/challenges/challenge-01-be-a-judge.md",
-      "title": "Challenge 1 \u2014 Be a Judge for Another Team's Submission"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/exercises/README.md",
-      "title": "Week 9 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/exercises/SOLUTIONS.md",
-      "title": "Exercise Solutions \u2014 Week 9"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/exercises/exercise-01-self-score.md",
-      "title": "Exercise 1 \u2014 Self-Score the Team's Week 8 Submission"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/exercises/exercise-02-qna-drill.md",
-      "title": "Exercise 2 \u2014 The Q&A Drill"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/exercises/exercise-03-cue-drill.md",
-      "title": "Exercise 3 \u2014 The Cue Drill"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/homework.md",
-      "title": "Week 9 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/lecture-notes/01-rubrics-and-mindsets.md",
-      "title": "Lecture 1 \u2014 Rubrics and the Two Judging Mindsets"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/lecture-notes/02-the-three-minute-arc.md",
-      "title": "Lecture 2 \u2014 The 3-Minute Arc and the Live-Coding Trap"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/lecture-notes/03-qna-room-and-unfair-judging.md",
-      "title": "Lecture 3 \u2014 Q&A, Reading the Room, and Unfair Judging"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/mini-project/README.md",
-      "title": "Mini-Project \u2014 The Mock Pitch and Mock Q&A"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/quiz.md",
-      "title": "Week 9 \u2014 Quiz"
-    },
-    {
-      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/resources.md",
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/01-resources.md",
       "title": "Week 9 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/README.md",
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/02-lecture-notes/01-rubrics-and-mindsets.md",
+      "title": "Lecture 1 \u2014 Rubrics and the Two Judging Mindsets"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/02-lecture-notes/02-the-three-minute-arc.md",
+      "title": "Lecture 2 \u2014 The 3-Minute Arc and the Live-Coding Trap"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/02-lecture-notes/03-qna-room-and-unfair-judging.md",
+      "title": "Lecture 3 \u2014 Q&A, Reading the Room, and Unfair Judging"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/03-exercises/00-overview.md",
+      "title": "Week 9 \u2014 Exercises"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/03-exercises/SOLUTIONS.md",
+      "title": "Exercise Solutions \u2014 Week 9"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/03-exercises/exercise-01-self-score.md",
+      "title": "Exercise 1 \u2014 Self-Score the Team's Week 8 Submission"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/03-exercises/exercise-02-qna-drill.md",
+      "title": "Exercise 2 \u2014 The Q&A Drill"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/03-exercises/exercise-03-cue-drill.md",
+      "title": "Exercise 3 \u2014 The Cue Drill"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/04-challenges/00-overview.md",
+      "title": "Week 9 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/04-challenges/challenge-01-be-a-judge.md",
+      "title": "Challenge 1 \u2014 Be a Judge for Another Team's Submission"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/05-quiz.md",
+      "title": "Week 9 \u2014 Quiz"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/06-homework.md",
+      "title": "Week 9 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-09-judging-scoring-and-reading-the-room/07-mini-project/00-overview.md",
+      "title": "Mini-Project \u2014 The Mock Pitch and Mock Q&A"
+    },
+    {
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/00-overview.md",
       "title": "Week 10 \u2014 Post-Event Carry-Out and Organizing Your Own"
     },
     {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/challenges/README.md",
-      "title": "Week 10 \u2014 Challenges"
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/01-resources.md",
+      "title": "Week 10 \u2014 Resources"
     },
     {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/challenges/challenge-01-attendee-survey.md",
-      "title": "Challenge 1 \u2014 Design the Post-Event Attendee Survey"
-    },
-    {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/challenges/challenge-02-sponsor-deck.md",
-      "title": "Challenge 2 \u2014 Draft a 5\u20138 Slide Sponsorship Deck"
-    },
-    {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/exercises/README.md",
-      "title": "Week 10 \u2014 Exercises"
-    },
-    {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/exercises/SOLUTIONS.md",
-      "title": "Week 10 \u2014 Exercise Solutions"
-    },
-    {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/exercises/exercise-01-recruiter-readme.md",
-      "title": "Exercise 1 \u2014 Write the Recruiter-Grade README"
-    },
-    {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/exercises/exercise-02-ninety-second-video.md",
-      "title": "Exercise 2 \u2014 Record the 90-Second Phone Demo"
-    },
-    {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/exercises/exercise-03-sponsor-email.md",
-      "title": "Exercise 3 \u2014 Draft Three Sponsor Cold-Emails"
-    },
-    {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/exercises/exercise-04-linkedin-and-resume.md",
-      "title": "Exercise 4 \u2014 LinkedIn Post Draft and Resume Bullet"
-    },
-    {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/homework.md",
-      "title": "Week 10 \u2014 Homework"
-    },
-    {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/lecture-notes/01-carry-out-readme-video-blog.md",
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/02-lecture-notes/01-carry-out-readme-video-blog.md",
       "title": "Lecture 1 \u2014 Carry-Out, README, Video, Blog"
     },
     {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/lecture-notes/02-org-side-venue-sponsors-mlh.md",
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/02-lecture-notes/02-org-side-venue-sponsors-mlh.md",
       "title": "Lecture 2 \u2014 Org-Side: Venue, Sponsors, MLH, Insurance, Food"
     },
     {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/lecture-notes/03-day-of-run-of-show-judging-prizes.md",
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/02-lecture-notes/03-day-of-run-of-show-judging-prizes.md",
       "title": "Lecture 3 \u2014 Day-of: Judging Panel, Prize Pool, Sponsor Liability, Run-of-Show"
     },
     {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/mini-project/README.md",
-      "title": "Week 10 Mini-Project \u2014 CAPSTONE \u2014 Organise a One-Day Campus Hackathon"
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/03-exercises/00-overview.md",
+      "title": "Week 10 \u2014 Exercises"
     },
     {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/quiz.md",
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/03-exercises/SOLUTIONS.md",
+      "title": "Week 10 \u2014 Exercise Solutions"
+    },
+    {
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/03-exercises/exercise-01-recruiter-readme.md",
+      "title": "Exercise 1 \u2014 Write the Recruiter-Grade README"
+    },
+    {
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/03-exercises/exercise-02-ninety-second-video.md",
+      "title": "Exercise 2 \u2014 Record the 90-Second Phone Demo"
+    },
+    {
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/03-exercises/exercise-03-sponsor-email.md",
+      "title": "Exercise 3 \u2014 Draft Three Sponsor Cold-Emails"
+    },
+    {
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/03-exercises/exercise-04-linkedin-and-resume.md",
+      "title": "Exercise 4 \u2014 LinkedIn Post Draft and Resume Bullet"
+    },
+    {
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/04-challenges/00-overview.md",
+      "title": "Week 10 \u2014 Challenges"
+    },
+    {
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/04-challenges/challenge-01-attendee-survey.md",
+      "title": "Challenge 1 \u2014 Design the Post-Event Attendee Survey"
+    },
+    {
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/04-challenges/challenge-02-sponsor-deck.md",
+      "title": "Challenge 2 \u2014 Draft a 5\u20138 Slide Sponsorship Deck"
+    },
+    {
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/05-quiz.md",
       "title": "Week 10 Quiz \u2014 Final-Exam Style"
     },
     {
-      "path": "curriculum/week-10-post-event-and-organizing-your-own/resources.md",
-      "title": "Week 10 \u2014 Resources"
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/06-homework.md",
+      "title": "Week 10 \u2014 Homework"
+    },
+    {
+      "path": "curriculum/week-10-post-event-and-organizing-your-own/07-mini-project/00-overview.md",
+      "title": "Week 10 Mini-Project \u2014 CAPSTONE \u2014 Organise a One-Day Campus Hackathon"
+    },
+    {
+      "path": "past-sessions/SPRING-2025/README.MD",
+      "title": "README.MD"
     },
     {
       "path": "past-sessions/SPRING-2025/RESOURCES/SP-dependencies.md",
@@ -588,6 +592,26 @@
     {
       "path": "past-sessions/SPRING-2025/RESOURCES/spring-boot-setup-guide.md",
       "title": "Install and Set Up Free Student License for Spring Boot, IntelliJ IDEA, and Postman"
+    },
+    {
+      "path": "resources/setup-guides/00-overview.md",
+      "title": "Setup Guides"
+    },
+    {
+      "path": "resources/setup-guides/browser.md",
+      "title": "Browser-Based Setup (No Install)"
+    },
+    {
+      "path": "resources/setup-guides/linux.md",
+      "title": "Linux Setup Guide"
+    },
+    {
+      "path": "resources/setup-guides/macos.md",
+      "title": "macOS Setup Guide"
+    },
+    {
+      "path": "resources/setup-guides/windows.md",
+      "title": "Windows Setup Guide"
     }
   ]
 }
